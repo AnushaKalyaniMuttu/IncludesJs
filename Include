@@ -1,0 +1,5 @@
+const arr=['anu','muttu']
+console.log(arr.includes('anu'))
+
+
+o/p: true
